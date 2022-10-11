@@ -1,0 +1,39 @@
+// colors
+$white: hsl(0, 0%, 100%);
+$black: hsl(0, 0%, 13%);
+
+$green-200: hsl(160, 32%, 87%);
+$green-500: hsl(160, 100%, 19%);
+$green-700: hsl(164, 31%, 17%);
+
+// Sections colors
+
+$body-bg-clr: $white;
+$nav-text-clr: $black;
+$footer-text-clr: $black;
+$nav-btn-clr: $black;
+$scl-media-clr: $black;
+
+// paddings margins and sizes
+
+//paddings
+$header-padding-sm: 0em 0.7em;
+$header-padding-md: 0em 1.075em;
+$header-padding-lg: 0em 1.775em;
+
+//margins
+
+// heights and widths
+
+$header-h-sm: 72px;
+$header-h-md: 85px;
+$header-h-lg: 101px;
+
+$icon-dim-sm: 40px;
+$icon-dim-md: 51px;
+$icon-dim-lg: 51px;
+
+// other
+
+$primary-shadow: 0 1px 3px rgb(0 0 0 / 10%), 0 2px 2px rgb(0 0 0 / 6%),
+  0 0 2px rgb(0 0 0 / 7%);

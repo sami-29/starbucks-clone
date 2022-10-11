@@ -1,0 +1,8 @@
+@import "./variables";
+
+@media (min-width: 768px) {
+  .icon {
+    height: $icon-dim-md !important;
+    width: $icon-dim-md;
+  }
+}
